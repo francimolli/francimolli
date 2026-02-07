@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm Francesco, a Software Developer and Technical Analyst 🇮🇹 with a dual focus: I build complex applications (React/Next.js) and I measure their performance using advanced web analytics.</p>
+<p align="left">I'm Francesco, a Software Engineer and Technical Analyst 🇮🇹 My focus? Building complex applications. </p>
 
 ###
 
