@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm Francesco, a Software Engineer and Technical Analyst 🇮🇹 My focus? Building complex applications. </p>
+<p align="left">I'm Francesco, a Software Engineer.</p>
 
 ###
 
