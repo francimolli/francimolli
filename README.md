@@ -1,5 +1,5 @@
 <h1 align="left">Halo✌️</h1>
 
-<p align="left">I'm Francesco even known as Frank (pure friends call me Francis)</p>
+<h3 align="left">I'm Francesco even known as Frank but any pure friends could call me Francis</h3>
 
-<h3 align="left"> I am coding here somthing. I'm working on... Anything! .. is caused by my pure Italian heart doing things. <h3>
+<h4 align="left"> I am coding here .. something .. and I am working sometimes on .. Anything .. that is caused by my pure Italian heart doing things. <h4>
