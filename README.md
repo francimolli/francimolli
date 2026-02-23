@@ -1,7 +1,8 @@
-<h1 align="left">Halo✌️</h1>
+<h1 align="left">Ciao✌️</h1>
 
 <h3 align="left">I'm Francesco even known as Frank but any pure friends might call me Francis</h3>
 
-<h4 align="left"> I am coding here .. something .. and I am working sometimes on .. anything .. that is caused by my pure Italian heart doing my some stuff .. <h4>
+<h4 align="left"> I am coding here .. sometimes .. and I am working 
+  on .. many things ...this must have been caused by my Italian heart. <h4>
 
-<h2>Ciao!</h2>
+<h5>HELO</h5>
